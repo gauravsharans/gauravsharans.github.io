@@ -1,0 +1,25 @@
+{
+		"Restaurants": [
+			{
+				"Name": "Artichoke Basille's Pizza",
+				"Address": "2590 Durant Ave, Berkeley, CA 94704",
+				"Cuisine": "Italian, Pizza",
+				"Operation Hours": "11:00 AM - 3:00 AM",
+				"Google Rating": "4.5 (1004 reviews)"
+			},
+			{
+				"Name": "Eureka!",
+				"Address": "2068 Center Street, Berkeley, CA 94704",
+				"Cuisine": "American, Bar",
+				"Operation Hours": "11:00 AM - 12:00 AM",
+				"Google Rating": "4.3 (1962 reviews)"
+			},
+			{
+				"Name": "Viks Chaat",
+				"Address": "2390 Fourth St, Berkeley, CA 94710",
+				"Cuisine": "Indian",
+				"Operation Hours": "11:00 AM - 07:30 PM",
+				"Google Rating": "4.2 (3742 reviews)"
+				}
+		]
+}
